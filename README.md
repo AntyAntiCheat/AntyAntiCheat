@@ -1,10 +1,9 @@
-![image](https://github.com/AntyAntiCheat/AntyAntiCheat/assets/146134378/bde8807a-7621-4a2e-a023-451ecbf683f3)Anty AntiCheat | Version 2.0
+Anty AntiCheat | Version 2.0
 
 Here are our links:
 
 - https://discord.gg/PQMHxXWpFv
 - https://youtu.be/wPRRbwe1wyk
-- ![image](https://github.com/AntyAntiCheat/AntyAntiCheat/assets/146134378/246e14d4-e0d7-4a67-837e-e0bd4c86559c)
 
 Client-side, server-side, configurations, etc :
 ```
@@ -104,3 +103,7 @@ Client-side, server-side, configurations, etc :
 - Ban Logs
 - Ban screenshots
 ```
+
+
+Config :
+- ![image](https://github.com/AntyAntiCheat/AntyAntiCheat/assets/146134378/246e14d4-e0d7-4a67-837e-e0bd4c86559c)
