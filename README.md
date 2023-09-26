@@ -1,30 +1,106 @@
-                                          Anty AntiCheat | Version 2.0
+![image](https://github.com/AntyAntiCheat/AntyAntiCheat/assets/146134378/bde8807a-7621-4a2e-a023-451ecbf683f3)Anty AntiCheat | Version 2.0
 
-Why another anticheat?
+Here are our links:
 
-I have created this resource because I was tired of seeing overpriced and non-functional anticheats that (most of the times) were just copies of another anticheat projects. This is not the case, I have tested this resource on a live server with over 120 people and ~95%* of detections were right!
+- https://discord.gg/PQMHxXWpFv
+- https://youtu.be/wPRRbwe1wyk
+- ![image](https://github.com/AntyAntiCheat/AntyAntiCheat/assets/146134378/246e14d4-e0d7-4a67-837e-e0bd4c86559c)
 
-This resource is not a one time release like most of other anticheats. I am not planning on releasing this, earn some money and then abandon it. I will keep it updated as long as I can and as long as there are things that needs updates!
+Client-side, server-side, configurations, etc :
+```
 
+- Anti Internal and Executor ( Red Engine , Tz , Eulen , Hx SoftWares, Skript.gg and other shit )
+- Use OCR Detection
+- Strings OCR Detection
+- Anti LUA Menus
 
-Deferral Cards support - Finally a beautiful deferral cards support
-Improved No-Clip detections - Every type of no-clip is now detected, so far no false positives!
-Magic Bullet detection - No more players shooting through objects!
-
-Optimization - Anty AntiCheat is highly optimized and uses a maximum of 0.02ms on resmon! (This value depends on the number of players and/or your server hardware)
-On-screen menu detection (OCR) - Detects suspicious text on the player's screen, such as mod menus)
-A wide range of console commands - Commands for banning, unbanning, updating or even deleting vehicles/objects/pedals are indispensable to any anticheat! And Anty AntiCheat is no exception!
-Discord logs with screenshots
-HWID bans
-3 punishment options - [LOG - KICK - BAN]
-Large configuration file (~900 lines)
-Bans are saved in a MySQL database - you don't have to worry about losing a single .json or .txt file containing all your banned players!
-Ban verification at login (not after!)
-Trigger protection for maximum value
-STANDALONE with ACE permissions integration - Anty AntiCheat doesn't depend on any framework!
-AntiVPN - You can block connections from players using a VPN or Proxy!
-Live configuration update - You can update the anticheat configuration and reload it on the live server without restarting the script!
-Documentation included! - After purchase, you'll also receive documentation that explains everything you need to know, including examples, a troubleshooting section and more!
-
-Config File (excluding blacklists)
-
+- Anti Citizen Health Hack
+- Anti Citizen Head Hitbox
+- Anti Citizen Damage Modifier
+- Anti Citizen Give Weapon
+- Anti Godmode
+- Anti Semi God Mode During Fight
+- Anti Edited Head Hitbox
+- Anti Infinite Stamina
+- Anti Aimbot
+- Anti NoRecoil
+- Anti RapidFire
+- Anti Ragdoll
+- Anti Rape Player
+- Anti Vehicle Repair
+- Anti Vehicle Speedhack
+- Anti Vehicle Health
+- Anti Silent Aim
+- Anti Taze
+- Anti Spectate
+- Anti Teleport
+- Anti Teleport to Way Point
+- Anti invisible
+- Anti Speedhack
+- Anti Superjump
+- Anti Freecam
+- Anti Freecam Allow Cords
+- Anti Night Vision
+- Anti Thermal Vision
+- Anti Noclip
+- Anti Eulen Noclip
+- Anti Player Explosion
+- Anti Nui Devtools
+- Anti Combat Roll
+- Anti Tiny Ped
+- Anti Attach Ped to Player
+- Blips Detection
+- Blips max value (Only Player Blips)
+- ESX Script Name
+- Shared Object Event
+- Whitelist Events on job
+- White List Events On Job List
+- Anti Give Weapon ESX
+- Ignore Weapons List From Anti Give Weapon
+- Blacklisted vechicles
+- Blacklisted Weapons
+- Blacklisted Weapons ban
+- Blacklisted Weapons Value
+- Anti Model Changer
+- Blacklisted vehicles
+- Blacklisted Weapons
+- Blacklisted Weapons ban
+- Blacklisted Weapons Value
+- Anti Model Changer
+- Ammunition Check
+- Max Ammunition
+- Anti Damage Modifier
+- Anti Damage Modifier Value
+- Anti Rapid Fire
+- Anti Bullets Manipulation
+- Anti Fast Reload
+- Anti No Reload
+- Anti Explosive Ammo
+- Anti Silent Weapon
+- Anti Explosive Ammo Ignore List
+- Anti Infinity Ammo
+- Blacklisted String Event
+- Blacklisted Triggers
+- Event Rate Limiter
+- Rate Limiter Time
+- Rate Limiter Events List
+- Particles Detection
+- Anti Mass Particles
+- Mass Particles Value
+- Mass Particles Reset Counter After
+- Particles Ignore List
+- Explosions Protection
+- AI Explosions Detection
+- Block Invisible Explosions
+- Block Silent Explosions
+- Anti Mass Explosion
+- Mass Explosion value
+- Blacklisted explosions
+- Anti VPN
+- Whitelist VPN IP's
+- Log Connection IP
+- Explosions Logs
+- Join Logs
+- Ban Logs
+- Ban screenshots
+```
