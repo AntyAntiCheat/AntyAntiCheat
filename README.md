@@ -1,4 +1,4 @@
-Anty AntiCheat | Version 2.0
+                                          Anty AntiCheat | Version 2.0
 
 Why another anticheat?
 
@@ -27,4 +27,4 @@ Live configuration update - You can update the anticheat configuration and reloa
 Documentation included! - After purchase, you'll also receive documentation that explains everything you need to know, including examples, a troubleshooting section and more!
 
 Config File (excluding blacklists)
-https://cdn.discordapp.com/attachments/1153776146832437251/1156325839626047560/config_anty.png?ex=65148fdb&is=65133e5b&hm=a5ad98e59e841a24b5218e9cd097a2600f9f44418aa3be69074b1d2b9eeddbaa&
+
